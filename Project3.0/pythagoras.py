@@ -1,4 +1,5 @@
 from manim import *
+import numpy as np
 
 class Pythagoras(Scene):
     def construct(self):
@@ -28,4 +29,17 @@ class Graph(Scene):
         self.add(ax)
         self.play(Create(curve))
         self.play(FadeIn(area))
+        self.wait()
+
+
+class Positioning(Scene):
+    def construct(self):
+        plane = NumberPlane()
+        self.add(plane)
+        self.wait()
+        
+        square = Square().move_to([2,1,0])
+        c1 = Circle(radius=2, color=RED, fill_opacity=0.5)
+        c1.align_to(square, UP + RIGHT + RIGHT)
+        self.add(square, c1)
         self.wait()

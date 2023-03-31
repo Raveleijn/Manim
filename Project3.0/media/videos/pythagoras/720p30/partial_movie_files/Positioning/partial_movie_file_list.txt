@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Positioning/1716832735_3315967912_29224614.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Positioning/2798195397_329969645_1038590510.mp4'
