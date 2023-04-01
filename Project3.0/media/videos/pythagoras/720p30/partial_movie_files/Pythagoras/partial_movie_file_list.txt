@@ -1,3 +1,9 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/274514146_2314154267_4127784550.mp4'
-file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2789044632_329969645_3074355450.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/1716832735_3967900744_223132457.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_329969645_886639576.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_2580830263_105465357.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_2078129806_105465357.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_3975524456_105465357.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_329969645_157339955.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_1696352481_3936093835.mp4'
+file 'file:C:/Users/woute/OneDrive/Documenten/GitHub/Manim/Project3.0/media/videos/pythagoras/720p30/partial_movie_files/Pythagoras/2798195397_329969645_2631499151.mp4'
