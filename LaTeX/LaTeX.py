@@ -1,6 +1,6 @@
 from manim import *
 
-class Equation(Scene):
+class DifferenceOfSquares(Scene):
     def construct(self):
         equation = MathTex(r"a^2-b^2", r"&=a^2-ab+ab-b^2\\", r"&=a(a-b)+b(a-b)\\", r"&=(a+b)(a-b)")
         self.play(Write(equation[0]))
